@@ -1,7 +1,7 @@
 # .github
 <!-- Header Banner with Custom Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,CF8704,100,800080&height=200&section=header&text=GENOTRIX%20LAB&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,CF8704,100,800080&height=200&section=header&text=GENOTRIX%20LAB&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkle&fontFamily=Bank%20Gothic" width="100%" />
 </p>
 
 <p align="center">
